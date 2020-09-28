@@ -1,1 +1,1 @@
-[{"نام":"علی","ایدی":"ندارد"}]
+[{"نام":"علی","ایدی":"ندارد","عکس اسم":"https://www.beytoote.com/fun/visual/special-profile2-photo.html","عکس ایدی":"https://www.beytoote.com/fun/visual/special-profile2-photo.html"}]
